@@ -1,0 +1,3 @@
+ElectronicGood:Lavazza;1223;macchina del caffè;50;5
+SpiritDrinkGood:WHISKY;10;123;liquore;20;8
+PerishableGood:12/12/2021;FRIDGE;12355;bho;50;3

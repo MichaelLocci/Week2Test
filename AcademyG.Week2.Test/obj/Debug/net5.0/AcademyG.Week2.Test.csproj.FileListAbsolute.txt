@@ -1,0 +1,16 @@
+C:\Users\michael.locci\Desktop\AcademyG\Week2Test\AcademyG.Week2.Test\AcademyG.Week2.Test\bin\Debug\net5.0\AcademyG.Week2.Test.exe
+C:\Users\michael.locci\Desktop\AcademyG\Week2Test\AcademyG.Week2.Test\AcademyG.Week2.Test\bin\Debug\net5.0\AcademyG.Week2.Test.deps.json
+C:\Users\michael.locci\Desktop\AcademyG\Week2Test\AcademyG.Week2.Test\AcademyG.Week2.Test\bin\Debug\net5.0\AcademyG.Week2.Test.runtimeconfig.json
+C:\Users\michael.locci\Desktop\AcademyG\Week2Test\AcademyG.Week2.Test\AcademyG.Week2.Test\bin\Debug\net5.0\AcademyG.Week2.Test.runtimeconfig.dev.json
+C:\Users\michael.locci\Desktop\AcademyG\Week2Test\AcademyG.Week2.Test\AcademyG.Week2.Test\bin\Debug\net5.0\AcademyG.Week2.Test.dll
+C:\Users\michael.locci\Desktop\AcademyG\Week2Test\AcademyG.Week2.Test\AcademyG.Week2.Test\bin\Debug\net5.0\ref\AcademyG.Week2.Test.dll
+C:\Users\michael.locci\Desktop\AcademyG\Week2Test\AcademyG.Week2.Test\AcademyG.Week2.Test\bin\Debug\net5.0\AcademyG.Week2.Test.pdb
+C:\Users\michael.locci\Desktop\AcademyG\Week2Test\AcademyG.Week2.Test\AcademyG.Week2.Test\obj\Debug\net5.0\AcademyG.Week2.Test.csproj.AssemblyReference.cache
+C:\Users\michael.locci\Desktop\AcademyG\Week2Test\AcademyG.Week2.Test\AcademyG.Week2.Test\obj\Debug\net5.0\AcademyG.Week2.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michael.locci\Desktop\AcademyG\Week2Test\AcademyG.Week2.Test\AcademyG.Week2.Test\obj\Debug\net5.0\AcademyG.Week2.Test.AssemblyInfoInputs.cache
+C:\Users\michael.locci\Desktop\AcademyG\Week2Test\AcademyG.Week2.Test\AcademyG.Week2.Test\obj\Debug\net5.0\AcademyG.Week2.Test.AssemblyInfo.cs
+C:\Users\michael.locci\Desktop\AcademyG\Week2Test\AcademyG.Week2.Test\AcademyG.Week2.Test\obj\Debug\net5.0\AcademyG.Week2.Test.csproj.CoreCompileInputs.cache
+C:\Users\michael.locci\Desktop\AcademyG\Week2Test\AcademyG.Week2.Test\AcademyG.Week2.Test\obj\Debug\net5.0\AcademyG.Week2.Test.dll
+C:\Users\michael.locci\Desktop\AcademyG\Week2Test\AcademyG.Week2.Test\AcademyG.Week2.Test\obj\Debug\net5.0\ref\AcademyG.Week2.Test.dll
+C:\Users\michael.locci\Desktop\AcademyG\Week2Test\AcademyG.Week2.Test\AcademyG.Week2.Test\obj\Debug\net5.0\AcademyG.Week2.Test.pdb
+C:\Users\michael.locci\Desktop\AcademyG\Week2Test\AcademyG.Week2.Test\AcademyG.Week2.Test\obj\Debug\net5.0\AcademyG.Week2.Test.genruntimeconfig.cache
